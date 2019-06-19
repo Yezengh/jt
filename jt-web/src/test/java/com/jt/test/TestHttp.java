@@ -44,18 +44,6 @@ public class TestHttp {
 		String result = service.doGet(url);
 		System.out.println(result);
 	}
-	@Test
-	public void testNum() {
-		for(int i=0;i<5;i++) {
-			
-			int num = new Random().nextInt(36);
-			System.out.println(num);
-		}
-		for(int i=0;i<2;i++) {
-			
-			int num = new Random().nextInt(15);
-			System.out.println(num);
-		}
-	}
+	
 
 }

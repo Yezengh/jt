@@ -9,6 +9,8 @@
   	<module>jt-manage</module>
   	<module>jt-web</module>
   	<module>jt-sso</module>
+  	<module>jt-cart</module>
+      <module>jt-order</module>
   </modules>
   <parent>
 		<groupId>org.springframework.boot</groupId>
@@ -136,4 +138,23 @@
 			<artifactId>spring-boot-starter-quartz</artifactId>
 		</dependency>	
 	</dependencies>
+	<build>
+		<resources>
+			<resource>
+				<directory>src/main/webapp</directory>
+				<!--注意此次必须要放在此目录下才能被访问到 -->
+				<targetPath>META-INF/resources</targetPath>
+				<includes>
+					<include>**/**</include>
+				</includes>
+			</resource>
+			<resource>
+				<directory>src/main/resources</directory>
+				<filtering>true</filtering>
+				<includes>
+					<include>**/*</include>
+				</includes>
+			</resource>
+		</resources>
+	</build>
 </project>

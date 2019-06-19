@@ -73,14 +73,14 @@ pageConfig.DATA_MScroll =[
     },
     {
         "alt": "",
-        "href": "http://www.jt.com/items/562379.html",
+        "href": "http://www.jt.com/items/1474391987.html",
         "index": 1,
         "src": "http://img13.360buyimg.com/da/jfs/t283/161/1609640628/12590/ecd295d3/543f2a46N876265d2.jpg",
         "ext": ""
     },
     {
         "alt": "",
-        "href": "http://www.jt.com/items/562379.html",
+        "href": "http://www.jt.com/items/1474391987.html",
         "index": 2,
         "src": "http://img14.360buyimg.com/da/jfs/t343/107/1701086212/14927/28286262/54407540N2aace14b.jpg",
         "ext": ""
@@ -108,21 +108,21 @@ pageConfig.DATA_MScroll =[
     },
     {
         "alt": "",
-        "href": "http://www.jt.com/items/562379.html",
+        "href": "http://www.jt.com/items/1474391987.html",
         "index": 6,
         "src": "http://img13.360buyimg.com/da/jfs/t349/295/1695471355/9379/2325a0a1/54407591Nb4735d70.jpg",
         "ext": "1"
     },
     {
         "alt": "",
-        "href": "http://www.jt.com/items/562379.html",
+        "href": "http://www.jt.com/items/1474391987.html",
         "index": 7,
         "src": "http://img13.360buyimg.com/da/jfs/t316/141/1726543031/5543/46404f6f/5440aa17N1b411341.jpg",
         "ext": ""
     },
     {
         "alt": "",
-        "href": "http://www.jt.com/items/562379.html",
+        "href": "http://www.jt.com/items/1474391987.html",
         "index": 8,
         "src": "http://img11.360buyimg.com/da/jfs/t313/170/1681775134/10831/7f4b7161/5440715aN1f03f497.jpg",
         "ext": ""
